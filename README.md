@@ -1,4 +1,4 @@
-# Stock-Prediction-App 📊
+# Stock Prediction App 📊
 
 + This is a stock prediction app made using Python and Streamlit  
 + I added a feature which makes the website take the ticker symbol as an input from the user and cheek if it's valid!  
