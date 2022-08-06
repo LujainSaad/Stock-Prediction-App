@@ -6,3 +6,4 @@
 ![ezgif com-gif-maker-6](https://user-images.githubusercontent.com/79986157/181390883-ebca8114-9e98-462f-8620-1457a583d345.gif)
   
 Visit the website  [here](https://lujainsaad-stock-prediction-app-myapp-ni23zg.streamlitapp.com)
+ 
