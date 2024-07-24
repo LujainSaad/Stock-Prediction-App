@@ -21,16 +21,13 @@ Visit the website  [here](https://lujainsaad-stock-prediction-app-myapp-ni23zg.s
    git clone https://github.com/LujainSaad/Stock-Prediction-App.git
 
 2.	Navigate to the project directory:
-
 ```bash
    cd Stock-Prediction-App
 
-3.	Install required Python packages:
-
+3. Install required Python packages:
 ```bash
    pip install -r requirements.txt
 
 4.	Run the Flask application:
-
 ```bash
    python app.py
