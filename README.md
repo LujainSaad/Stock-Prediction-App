@@ -31,7 +31,7 @@ Visit the website  [here](https://lujainsaad-stock-prediction-app-myapp-ni23zg.s
    pip install -r requirements.txt
 ```
 
-	4.	Run the Streamlit application:
+4. Run the Streamlit application:
 ```bash
 streamlit run app.py
 ```
