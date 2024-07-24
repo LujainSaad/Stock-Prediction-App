@@ -19,15 +19,19 @@ Visit the website  [here](https://lujainsaad-stock-prediction-app-myapp-ni23zg.s
 1. Clone the repository:
    ```bash
    git clone https://github.com/LujainSaad/Stock-Prediction-App.git
+   ```
 
-2.	Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
    cd Stock-Prediction-App
+```
 
 3. Install required Python packages:
 ```bash
    pip install -r requirements.txt
+```
 
-4.	Run the Flask application:
+	4.	Run the Streamlit application:
 ```bash
-   python app.py
+streamlit run app.py
+```
